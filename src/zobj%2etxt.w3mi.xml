@@ -5,20 +5,14 @@
    <NAME>ZOBJ.TXT</NAME>
    <PARAMS>
     <WWWPARAMS>
-     <RELID>MI</RELID>
-     <OBJID>ZOBJ.TXT</OBJID>
      <NAME>fileextension</NAME>
      <VALUE>.txt</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
-     <RELID>MI</RELID>
-     <OBJID>ZOBJ.TXT</OBJID>
      <NAME>filename</NAME>
      <VALUE>test.txt</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
-     <RELID>MI</RELID>
-     <OBJID>ZOBJ.TXT</OBJID>
      <NAME>mimetype</NAME>
      <VALUE>text/plain</VALUE>
     </WWWPARAMS>
